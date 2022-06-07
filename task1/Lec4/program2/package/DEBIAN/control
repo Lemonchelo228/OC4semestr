@@ -1,0 +1,10 @@
+Package: Program41
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 20
+Maintainer: Ivan Chelykhov <ivanchelo99@yandex.ru> 
+Description: NULL
